@@ -5,6 +5,7 @@ Quiz intended to challenge the user on their JavaScript knowledge in a timeley m
 -Class activities 
 
 Once launching the quiz you should be able to take a quiz that is timed and gives you a final score at the end. Once you reach the end you should be able to input your initials for catch highest score. When viewing the highest score you should be able to clear highest score or go back. 
+https://dianatrujillo-create.github.io/Coding-Quiz/
 
 screenshot: ![Coding Quiz](/images/CodingQuizChallenge.png)
 screenshot: ![Questions](/images/Questions.png)
